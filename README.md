@@ -1,3 +1,3 @@
 - 👋 Hey there, I'm Arvind Rao
-- 🌱 I’m currently learning Django and vuejs
+- 🌱 I’m currently learning Django REST and vuejs
 
