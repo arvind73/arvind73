@@ -1,6 +1,6 @@
 Hey everyone!
 
-Engineering grad at DSCE
+I'm an engineering grad at DSCE
 
 Interested in web development and problem solving
 
